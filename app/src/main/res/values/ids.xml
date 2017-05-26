@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_Red_score" type="id" />
+    <item name="team_Blue_score" type="id" />
+    <item name="team_Red_score_score" type="id" />
+</resources>
